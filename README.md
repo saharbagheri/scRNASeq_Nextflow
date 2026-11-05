@@ -1,4 +1,4 @@
-# GSE174609 scRNA-seq Nextflow pipeline
+# scRNA-seq Nextflow pipeline
 
 ## Workflow
 
